@@ -1,4 +1,4 @@
-File Encryption Tool
+<h1>File Encryption Tool<h1>
 Overview
 Welcome to the File Encryption Tool repository. This project provides a powerful and user-friendly tool designed to securely encrypt and decrypt files on Windows systems using C#. The tool generates an executable (exe) file for easy deployment and use, ensuring your sensitive data remains protected.
 
@@ -11,3 +11,9 @@ Getting Started
 Prerequisites
 Windows OS
 .NET Framework or .NET Core SDK
+Installation
+Clone the repository:
+
+bash
+git clone https://github.com/yourusername/file-encryption-tool.git
+cd file-encryption-tool
